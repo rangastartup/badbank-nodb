@@ -43,8 +43,7 @@ Link to AWS Deployment: **[Bad Bank](http://kevin-grimaldibankingapplication.s3-
 
 ### Author
 
-Kevin Grimaldi.
-Student at MIT - Fullstack Development with MERN
+
 
 ### License
 
